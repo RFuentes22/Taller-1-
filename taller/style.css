@@ -1,0 +1,23 @@
+
+body{
+    background:  #767de4;
+}
+
+ .panel{
+     background-color: white;
+     
+     margin: 10px; 
+     border: 6px solid black;
+     padding: 0.5em;
+     margin: 10px auto;
+     width: 80%;
+    
+ }
+
+ h1{
+    font-family: 'Open Sans', sans-serif;
+ }
+
+.panel > text  {
+    text-align:right;
+}
